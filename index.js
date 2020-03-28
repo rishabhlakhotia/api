@@ -12,7 +12,7 @@ setInterval(function () {
       console.log("ops completed");
     }
   });
-}, 2000);
+}, 100000);
 
 setInterval(function () {
   var filename = './data.json'
@@ -23,4 +23,4 @@ setInterval(function () {
       console.log("ops completed");
     }
   });
-}, 2000);
+}, 100000);
